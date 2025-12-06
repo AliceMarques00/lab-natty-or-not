@@ -1,4 +1,4 @@
-📒 Descrição
+
 Este vídeo de 1 minuto apresenta de forma rápida e envolvente a história da origem do termo bug na computação, mostrando como um simples inseto se tornou parte da cultura tecnológica.
 
 🤖 Tecnologias Utilizadas
