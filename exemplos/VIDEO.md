@@ -14,7 +14,8 @@ Usei o Copilot para escrever e revisar o roteiro do vídeo, garantindo clareza e
 🚀 Resultados
 O vídeo explica de forma concisa e visual a origem do termo bug, conectando história e tecnologia. É um conteúdo educativo e criativo que mostra como as IAs generativas podem apoiar a produção multimídia.
 
-LINK PARA O VÍDEO AQUI
+LINK:
+https://youtube.com/shorts/hMUbkPiO88w?feature=share
 
 💭 Reflexão
 Este projeto foi uma experiência enriquecedora, unindo pesquisa histórica e ferramentas de IA para criar uma narrativa visual envolvente. A combinação de roteirização com Copilot e produção com Zeemo IA demonstrou o poder das IAs generativas na criação de conteúdos educativos e criativos.
